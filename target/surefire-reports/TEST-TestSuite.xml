@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="0.55" tests="10" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="0.632" tests="10" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="25"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="ID"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-25.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\62819\AppData\Local\Temp\surefire786042484534253887\surefirebooter-20260316085854559_3.jar C:\Users\62819\AppData\Local\Temp\surefire786042484534253887 2026-03-16T08-58-54_127-jvmRun1 surefire-20260316085854559_1tmp surefire_0-20260316085854559_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\62819\AppData\Local\Temp\surefire4866747796413716187\surefirebooter-20260317192902560_3.jar C:\Users\62819\AppData\Local\Temp\surefire4866747796413716187 2026-03-17T19-29-02_084-jvmRun1 surefire-20260317192902560_1tmp surefire_0-20260317192902560_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\Juara Coding\JavaExam\target\test-classes;D:\Juara Coding\JavaExam\target\classes;C:\Users\62819\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar;C:\Users\62819\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\62819\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\62819\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\62819\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\62819\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\62819\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\62819\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\62819\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\62819\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\62819\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\62819\.m2\repository\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;C:\Users\62819\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\62819\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;C:\Users\62819\.m2\repository\org\apache\logging\log4j\log4j-api\2.18.0\log4j-api-2.18.0.jar;C:\Users\62819\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\62819\AppData\Local\Temp\surefire786042484534253887\surefirebooter-20260316085854559_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\62819\AppData\Local\Temp\surefire4866747796413716187\surefirebooter-20260317192902560_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="25.0.2+10-LTS-69"/>
@@ -59,19 +59,19 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="69.0"/>
   </properties>
-  <testcase name="testDivisiBaruKosong" classname="com.juaracoding.DivisiTest" time="0.008">
+  <testcase name="testDivisiBaruKosong" classname="com.juaracoding.DivisiTest" time="0.004">
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
 ]]></system-err>
   </testcase>
   <testcase name="testTambahSatuKaryawan" classname="com.juaracoding.DivisiTest" time="0.001"/>
-  <testcase name="testTambahBeberapaKaryawan" classname="com.juaracoding.DivisiTest" time="0"/>
+  <testcase name="testTambahBeberapaKaryawan" classname="com.juaracoding.DivisiTest" time="0.001"/>
   <testcase name="testTambahKaryawanNull" classname="com.juaracoding.DivisiTest" time="0.001"/>
   <testcase name="testSistemLengkap" classname="com.juaracoding.HRSystemTest" time="0.001"/>
   <testcase name="testHitungGajiTotalManager" classname="com.juaracoding.KaryawanTest" time="0"/>
-  <testcase name="testHitungGajiTotalStaff" classname="com.juaracoding.KaryawanTest" time="0.001"/>
-  <testcase name="testHitungGajiTotalLainnya" classname="com.juaracoding.KaryawanTest" time="0"/>
+  <testcase name="testHitungGajiTotalStaff" classname="com.juaracoding.KaryawanTest" time="0"/>
+  <testcase name="testHitungGajiTotalLainnya" classname="com.juaracoding.KaryawanTest" time="0.001"/>
   <testcase name="testUpdateGajiPersentasePositif" classname="com.juaracoding.KaryawanTest" time="0"/>
-  <testcase name="testUpdateGajiPersentaseNol" classname="com.juaracoding.KaryawanTest" time="0.001"/>
+  <testcase name="testUpdateGajiPersentaseNol" classname="com.juaracoding.KaryawanTest" time="0"/>
 </testsuite>

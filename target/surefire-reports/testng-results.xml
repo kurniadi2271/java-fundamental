@@ -2,60 +2,60 @@
 <testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-03-16T08:58:55 WIB" name="JavaExam Suite" finished-at="2026-03-16T08:58:55 WIB" duration-ms="68">
+  <suite started-at="2026-03-17T19:29:03 WIB" name="JavaExam Suite" finished-at="2026-03-17T19:29:03 WIB" duration-ms="74">
     <groups>
     </groups>
-    <test started-at="2026-03-16T08:58:55 WIB" name="AllTests" finished-at="2026-03-16T08:58:55 WIB" duration-ms="68">
+    <test started-at="2026-03-17T19:29:03 WIB" name="AllTests" finished-at="2026-03-17T19:29:03 WIB" duration-ms="74">
       <class name="com.juaracoding.DivisiTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.juaracoding.DivisiTest@37918c79]" started-at="2026-03-16T08:58:55 WIB" name="setUp" finished-at="2026-03-16T08:58:55 WIB" duration-ms="13" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.juaracoding.DivisiTest@37918c79]" started-at="2026-03-17T19:29:03 WIB" name="setUp" finished-at="2026-03-17T19:29:03 WIB" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testDivisiBaruKosong()[pri:1, instance:com.juaracoding.DivisiTest@37918c79]" started-at="2026-03-16T08:58:55 WIB" name="testDivisiBaruKosong" finished-at="2026-03-16T08:58:55 WIB" duration-ms="8" status="PASS">
+        <test-method signature="testDivisiBaruKosong()[pri:1, instance:com.juaracoding.DivisiTest@37918c79]" started-at="2026-03-17T19:29:03 WIB" name="testDivisiBaruKosong" finished-at="2026-03-17T19:29:03 WIB" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDivisiBaruKosong -->
-        <test-method signature="testTambahSatuKaryawan()[pri:2, instance:com.juaracoding.DivisiTest@37918c79]" started-at="2026-03-16T08:58:55 WIB" name="testTambahSatuKaryawan" finished-at="2026-03-16T08:58:55 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testTambahSatuKaryawan()[pri:2, instance:com.juaracoding.DivisiTest@37918c79]" started-at="2026-03-17T19:29:03 WIB" name="testTambahSatuKaryawan" finished-at="2026-03-17T19:29:03 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTambahSatuKaryawan -->
-        <test-method signature="testTambahBeberapaKaryawan()[pri:3, instance:com.juaracoding.DivisiTest@37918c79]" started-at="2026-03-16T08:58:55 WIB" name="testTambahBeberapaKaryawan" finished-at="2026-03-16T08:58:55 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testTambahBeberapaKaryawan()[pri:3, instance:com.juaracoding.DivisiTest@37918c79]" started-at="2026-03-17T19:29:03 WIB" name="testTambahBeberapaKaryawan" finished-at="2026-03-17T19:29:03 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTambahBeberapaKaryawan -->
-        <test-method signature="testTambahKaryawanNull()[pri:4, instance:com.juaracoding.DivisiTest@37918c79]" started-at="2026-03-16T08:58:55 WIB" name="testTambahKaryawanNull" finished-at="2026-03-16T08:58:55 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testTambahKaryawanNull()[pri:4, instance:com.juaracoding.DivisiTest@37918c79]" started-at="2026-03-17T19:29:03 WIB" name="testTambahKaryawanNull" finished-at="2026-03-17T19:29:03 WIB" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTambahKaryawanNull -->
       </class> <!-- com.juaracoding.DivisiTest -->
       <class name="com.juaracoding.HRSystemTest">
-        <test-method signature="testSistemLengkap()[pri:0, instance:com.juaracoding.HRSystemTest@3c72f59f]" started-at="2026-03-16T08:58:55 WIB" name="testSistemLengkap" finished-at="2026-03-16T08:58:55 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testSistemLengkap()[pri:0, instance:com.juaracoding.HRSystemTest@3c72f59f]" started-at="2026-03-17T19:29:03 WIB" name="testSistemLengkap" finished-at="2026-03-17T19:29:03 WIB" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSistemLengkap -->
       </class> <!-- com.juaracoding.HRSystemTest -->
       <class name="com.juaracoding.KaryawanTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.juaracoding.KaryawanTest@60dcc9fe]" started-at="2026-03-16T08:58:55 WIB" name="setUp" finished-at="2026-03-16T08:58:55 WIB" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.juaracoding.KaryawanTest@60dcc9fe]" started-at="2026-03-17T19:29:03 WIB" name="setUp" finished-at="2026-03-17T19:29:03 WIB" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testHitungGajiTotalManager()[pri:1, instance:com.juaracoding.KaryawanTest@60dcc9fe]" started-at="2026-03-16T08:58:55 WIB" name="testHitungGajiTotalManager" finished-at="2026-03-16T08:58:55 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testHitungGajiTotalManager()[pri:1, instance:com.juaracoding.KaryawanTest@60dcc9fe]" started-at="2026-03-17T19:29:03 WIB" name="testHitungGajiTotalManager" finished-at="2026-03-17T19:29:03 WIB" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHitungGajiTotalManager -->
-        <test-method signature="testHitungGajiTotalStaff()[pri:2, instance:com.juaracoding.KaryawanTest@60dcc9fe]" started-at="2026-03-16T08:58:55 WIB" name="testHitungGajiTotalStaff" finished-at="2026-03-16T08:58:55 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testHitungGajiTotalStaff()[pri:2, instance:com.juaracoding.KaryawanTest@60dcc9fe]" started-at="2026-03-17T19:29:03 WIB" name="testHitungGajiTotalStaff" finished-at="2026-03-17T19:29:03 WIB" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHitungGajiTotalStaff -->
-        <test-method signature="testHitungGajiTotalLainnya()[pri:3, instance:com.juaracoding.KaryawanTest@60dcc9fe]" started-at="2026-03-16T08:58:55 WIB" name="testHitungGajiTotalLainnya" finished-at="2026-03-16T08:58:55 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testHitungGajiTotalLainnya()[pri:3, instance:com.juaracoding.KaryawanTest@60dcc9fe]" started-at="2026-03-17T19:29:03 WIB" name="testHitungGajiTotalLainnya" finished-at="2026-03-17T19:29:03 WIB" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHitungGajiTotalLainnya -->
-        <test-method signature="testUpdateGajiPersentasePositif()[pri:4, instance:com.juaracoding.KaryawanTest@60dcc9fe]" started-at="2026-03-16T08:58:55 WIB" name="testUpdateGajiPersentasePositif" finished-at="2026-03-16T08:58:55 WIB" duration-ms="1" status="PASS">
+        <test-method signature="testUpdateGajiPersentasePositif()[pri:4, instance:com.juaracoding.KaryawanTest@60dcc9fe]" started-at="2026-03-17T19:29:03 WIB" name="testUpdateGajiPersentasePositif" finished-at="2026-03-17T19:29:03 WIB" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUpdateGajiPersentasePositif -->
-        <test-method signature="testUpdateGajiPersentaseNol()[pri:5, instance:com.juaracoding.KaryawanTest@60dcc9fe]" started-at="2026-03-16T08:58:55 WIB" name="testUpdateGajiPersentaseNol" finished-at="2026-03-16T08:58:55 WIB" duration-ms="0" status="PASS">
+        <test-method signature="testUpdateGajiPersentaseNol()[pri:5, instance:com.juaracoding.KaryawanTest@60dcc9fe]" started-at="2026-03-17T19:29:03 WIB" name="testUpdateGajiPersentaseNol" finished-at="2026-03-17T19:29:03 WIB" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUpdateGajiPersentaseNol -->
